@@ -32,6 +32,10 @@
       <module name="Problems__6_-Groundhogs_at_a_party_test" target="11" />
       <module name="Problems__7_-Healthy_sleep_main" target="11" />
       <module name="Problems__7_-Healthy_sleep_test" target="11" />
+      <module name="Problems__8_-The_army_of_units_main" target="11" />
+      <module name="Problems__8_-The_army_of_units_test" target="11" />
+      <module name="Problems__9_-Fizz_Buzz_main" target="11" />
+      <module name="Problems__9_-Fizz_Buzz_test" target="11" />
       <module name="Simple_Chatty_Bot-task_main" target="11" />
       <module name="Simple_Chatty_Bot-task_test" target="11" />
       <module name="util_main" target="11" />
