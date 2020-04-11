@@ -22,6 +22,8 @@
       <module name="Problems__2_-Replacing_'a'_with_'b'_test" target="11" />
       <module name="Problems__3_-Replacing_'a'_with_'b'_main" target="11" />
       <module name="Problems__3_-Replacing_'a'_with_'b'_test" target="11" />
+      <module name="Problems__4_-Check_the_value_main" target="11" />
+      <module name="Problems__4_-Check_the_value_test" target="11" />
       <module name="Problems__4_-Replacing_'a'_with_'b'_main" target="11" />
       <module name="Problems__4_-Replacing_'a'_with_'b'_test" target="11" />
       <module name="Simple_Chatty_Bot-task_main" target="11" />
