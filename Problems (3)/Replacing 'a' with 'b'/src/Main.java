@@ -27,5 +27,6 @@ class Main {
         }
         //statement to print the value of @s1
         System.out.println(s1);
+
     }
 }
