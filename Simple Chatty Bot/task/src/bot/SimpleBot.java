@@ -38,7 +38,7 @@ public class SimpleBot {
         System.out.println("Please, remind me your name.");
     }
 //create remindName() method
-//remindName() method is of void type
+//remindName() method is of void type and is also of static type
     static void remindName() {
         String name = scanner.nextLine();
         System.out.println("What a great name you have, " + name + "!");
