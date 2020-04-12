@@ -10,6 +10,7 @@ public class SimpleBot {
 //@main is static and public type
 //@args array of String type
     public static void main(String[] args) {
+        //calling the greet(assistantName,birthYear) method
         greet("Aid", "2018"); // change it as you need
         remindName();
         guessAge();
