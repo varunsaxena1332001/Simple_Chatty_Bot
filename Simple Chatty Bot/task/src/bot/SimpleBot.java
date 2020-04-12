@@ -119,6 +119,7 @@ public class SimpleBot {
          * creating while() loop
          * limit of this loop is @ans!=@guess*/
         while (ans != guess) {
+            //statement to print "Please, try again."
             System.out.println("Please, try again.");
             guess = scanner.nextInt();
         }
