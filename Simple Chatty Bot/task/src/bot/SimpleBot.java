@@ -48,7 +48,7 @@ public class SimpleBot {
         System.out.println("What a great name you have, " + name + "!");
     }
 //create guessAge() method
-//guessAge() method is of void type
+//guessAge() method is of void type and is also of static type
     static void guessAge() {
         System.out.println("Let me guess your age.");
         System.out.println("Say me remainders of dividing your age by 3, 5 and 7.");
