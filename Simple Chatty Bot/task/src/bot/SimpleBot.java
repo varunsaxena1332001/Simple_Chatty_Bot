@@ -115,6 +115,8 @@ public class SimpleBot {
          * @guess is of Integer type
          * */
         int guess = scanner.nextInt();
+        /**
+         * creating while() loop*/
         while (ans != guess) {
             System.out.println("Please, try again.");
             guess = scanner.nextInt();
