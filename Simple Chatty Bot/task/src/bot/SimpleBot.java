@@ -85,6 +85,7 @@ public class SimpleBot {
         int num = scanner.nextInt();
         //generating for loop from 0 to num by incrementation of 1.
         for (int i = 0; i <= num; i++) {
+            //statement to print @i from 1 to @num
             System.out.printf("%d!\n", i);
         }
     }
