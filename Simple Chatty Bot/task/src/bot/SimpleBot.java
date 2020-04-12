@@ -19,6 +19,7 @@ public class SimpleBot {
         //calling count() method
         count();
         // ...
+        //calling test() method
         test();
         end();
     }
