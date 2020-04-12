@@ -18,7 +18,9 @@ class Main {
         //creating for-loop of the length of variable @s and incrementation of 1
         for (int i = 0; i < s.length(); i++) {
             //comparing by condition in which each character is equal to "a"
+            //if condition is true then replace "a" by "b" otherwise remains same
             if (s.charAt(i) == 'a') {
+
                 s1 = s1 + "b";
             } else
                 s1 = s1 + s.charAt(i);
