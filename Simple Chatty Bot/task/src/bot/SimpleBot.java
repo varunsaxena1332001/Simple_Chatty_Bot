@@ -77,6 +77,7 @@ public class SimpleBot {
 //count() method is of static type
 //count() method is by default public type
     static void count() {
+        //statement to print "Now I will prove to you that I can count to any number you want."
         System.out.println("Now I will prove to you that I can count to any number you want.");
         int num = scanner.nextInt();
         for (int i = 0; i <= num; i++) {
