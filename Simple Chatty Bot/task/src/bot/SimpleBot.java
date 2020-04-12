@@ -42,6 +42,7 @@ public class SimpleBot {
 //remindName() method is by default public type
     static void remindName() {
         //creating variable @name of String type
+        //now scanning variable @name
         String name = scanner.nextLine();
         System.out.println("What a great name you have, " + name + "!");
     }
