@@ -121,6 +121,7 @@ public class SimpleBot {
         while (ans != guess) {
             //statement to print "Please, try again."
             System.out.println("Please, try again.");
+
             guess = scanner.nextInt();
         }
     }
