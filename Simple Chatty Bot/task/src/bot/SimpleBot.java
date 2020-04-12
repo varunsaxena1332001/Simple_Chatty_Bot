@@ -107,6 +107,7 @@ public class SimpleBot {
         /**
          * creating variable @ans
          * @ans is of Integer type
+         * initialize @ans=2
          * */
         int ans = 2;
         int guess = scanner.nextInt();
