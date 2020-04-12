@@ -69,6 +69,7 @@ public class SimpleBot {
         //@age is of Integer type
 
         int age = (rem3 * 70 + rem5 * 21 + rem7 * 15) % 105;
+        //statement to print the age using variable @age
         System.out.println("Your age is " + age + "; that's a good time to start programming!");
     }
 
