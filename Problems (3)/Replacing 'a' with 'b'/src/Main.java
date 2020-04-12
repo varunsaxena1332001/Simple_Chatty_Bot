@@ -4,6 +4,7 @@ class Main {
     /**
      * creating main() method
      * main() method is of static type
+     * creating array @args of String type
      */
     public static void main(String[] args) {
         // put your code here
