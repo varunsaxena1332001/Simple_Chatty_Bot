@@ -8,6 +8,7 @@ public class SimpleBot {
     final static Scanner scanner = new Scanner(System.in); // Do not change this line
 //create main() method
 //@main is static and public type
+//@args array of String type
     public static void main(String[] args) {
         greet("Aid", "2018"); // change it as you need
         remindName();
