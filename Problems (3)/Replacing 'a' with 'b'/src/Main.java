@@ -17,6 +17,7 @@ class Main {
         String s1 = "";
         //creating for-loop of the length of variable @s and incrementation of 1
         for (int i = 0; i < s.length(); i++) {
+            //comparing by condition in which each character is equal to "a"
             if (s.charAt(i) == 'a') {
                 s1 = s1 + "b";
             } else
