@@ -83,6 +83,7 @@ public class SimpleBot {
         //@num is of Integer type
 
         int num = scanner.nextInt();
+        //generating for loop from 0 to num by incrementation of 1.
         for (int i = 0; i <= num; i++) {
             System.out.printf("%d!\n", i);
         }
