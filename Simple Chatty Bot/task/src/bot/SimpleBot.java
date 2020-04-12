@@ -98,6 +98,7 @@ public class SimpleBot {
         //statement to print "Let's test your programming knowledge."
         System.out.println("Let's test your programming knowledge.");
         // write your code here
+        //statement to print case number for each method define in main() method
         System.out.println("Why do we use methods?\n" +
                 "1. To repeat a statement multiple times.\n" +
                 "2. To decompose a program into several small subroutines.\n" +
