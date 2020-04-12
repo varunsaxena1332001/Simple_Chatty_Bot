@@ -14,6 +14,7 @@ public class SimpleBot {
         greet("Aid", "2018"); // change it as you need
         //calling remindName() method
         remindName();
+        //calling guessAge() method
         guessAge();
         count();
         // ...
