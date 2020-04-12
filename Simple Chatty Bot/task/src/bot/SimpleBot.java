@@ -111,7 +111,8 @@ public class SimpleBot {
          * */
         int ans = 2;
         /**
-         * creating variable @guess*/
+         * creating variable @guess
+         * @guess is of Integer type*/
         int guess = scanner.nextInt();
         while (ans != guess) {
             System.out.println("Please, try again.");
