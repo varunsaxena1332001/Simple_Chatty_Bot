@@ -15,6 +15,7 @@ class Main {
         }
         if (h > b) {
             System.out.println("Excess");
+
         }
     }
 }
