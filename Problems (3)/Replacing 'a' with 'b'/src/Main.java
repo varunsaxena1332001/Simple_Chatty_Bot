@@ -11,6 +11,7 @@ class Main {
         //creating object sc of Scanner class
         Scanner sc = new Scanner(System.in);
         //creating variable @s of String type
+
         String s = sc.next();
         String s1 = "";
         for (int i = 0; i < s.length(); i++) {
