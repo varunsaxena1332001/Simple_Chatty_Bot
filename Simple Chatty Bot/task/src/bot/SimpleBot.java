@@ -21,6 +21,7 @@ public class SimpleBot {
         // ...
         //calling test() method
         test();
+        //calling end() method
         end();
     }
 
