@@ -3,6 +3,7 @@ package bot;
 import java.util.Scanner;
 //a program to get the age ,test and simple talk between people
 public class SimpleBot {
+    // create a object scanner of Scanner class
     final static Scanner scanner = new Scanner(System.in); // Do not change this line
 
     public static void main(String[] args) {
