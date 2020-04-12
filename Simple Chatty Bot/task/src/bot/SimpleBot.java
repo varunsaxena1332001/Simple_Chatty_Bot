@@ -37,7 +37,7 @@ public class SimpleBot {
         //statement to print "Please, remind me your name."
         System.out.println("Please, remind me your name.");
     }
-
+//create remindName() method
     static void remindName() {
         String name = scanner.nextLine();
         System.out.println("What a great name you have, " + name + "!");
