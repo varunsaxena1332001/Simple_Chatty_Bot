@@ -10,6 +10,8 @@
       <module name="Problems-Reversing_test" target="11" />
       <module name="Problems-Snail_main" target="11" />
       <module name="Problems-Snail_test" target="11" />
+      <module name="Problems__10_-Numbers_divisible_by_six_main" target="11" />
+      <module name="Problems__10_-Numbers_divisible_by_six_test" target="11" />
       <module name="Problems__1_-Decrement_all_main" target="11" />
       <module name="Problems__1_-Decrement_all_test" target="11" />
       <module name="Problems__1_-Extracting_a_substring_main" target="11" />
