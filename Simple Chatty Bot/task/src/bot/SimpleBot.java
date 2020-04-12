@@ -129,6 +129,7 @@ public class SimpleBot {
  * creating end() method
  * end() method is not return type
  * end() method is static type
+ * end() method by default public type
  */
     static void end() {
         System.out.println("Congratulations, have a nice day!"); // Do not change this text
