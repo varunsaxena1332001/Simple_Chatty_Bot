@@ -25,6 +25,7 @@ class Main {
             } else
                 s1 = s1 + s.charAt(i);
         }
+        //statement to print the value of @s1
         System.out.println(s1);
     }
 }
