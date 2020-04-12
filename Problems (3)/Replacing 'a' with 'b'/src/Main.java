@@ -13,7 +13,7 @@ class Main {
         //creating variable @s of String type
 
         String s = sc.next();
-        //creating variable @s1 of String type
+        //creating variable @s1 of String type and initialize it by ""
         String s1 = "";
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == 'a') {
