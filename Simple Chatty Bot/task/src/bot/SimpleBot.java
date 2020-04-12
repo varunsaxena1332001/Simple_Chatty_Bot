@@ -110,6 +110,8 @@ public class SimpleBot {
          * initialize @ans=2
          * */
         int ans = 2;
+        /**
+         * creating variable @guess*/
         int guess = scanner.nextInt();
         while (ans != guess) {
             System.out.println("Please, try again.");
