@@ -59,6 +59,7 @@ public class SimpleBot {
         //@rem3 is of Integer type
         //now scanning variable @rem3
         int rem3 = scanner.nextInt();
+        //creating variable @rem5
         int rem5 = scanner.nextInt();
         int rem7 = scanner.nextInt();
         int age = (rem3 * 70 + rem5 * 21 + rem7 * 15) % 105;
