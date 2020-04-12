@@ -92,6 +92,7 @@ public class SimpleBot {
 /**
  * creating test() method
  * it is not return type
+ * test() method is of static type
  */
     static void test() {
         System.out.println("Let's test your programming knowledge.");
