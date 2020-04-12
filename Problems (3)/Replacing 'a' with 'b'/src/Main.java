@@ -15,6 +15,7 @@ class Main {
         String s = sc.next();
         //creating variable @s1 of String type and initialize it by ""
         String s1 = "";
+        //creating for-loop of the length of variable @s
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == 'a') {
                 s1 = s1 + "b";
