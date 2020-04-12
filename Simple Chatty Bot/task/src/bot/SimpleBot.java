@@ -34,6 +34,7 @@ public class SimpleBot {
         System.out.println("Hello! My name is " + assistantName + ".");
         //statement to print "I was created in {birthYear}."
         System.out.println("I was created in " + birthYear + ".");
+        //statement to print "Please, remind me your name."
         System.out.println("Please, remind me your name.");
     }
 
