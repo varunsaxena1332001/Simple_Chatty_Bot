@@ -3,6 +3,7 @@ import java.util.Scanner;
 class Main {
     /**
      * creating main() method
+     * main() method is of static type
      */
     public static void main(String[] args) {
         // put your code here
