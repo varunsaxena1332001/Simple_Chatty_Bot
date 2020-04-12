@@ -44,6 +44,7 @@ public class SimpleBot {
         //creating variable @name of String type
         //now scanning variable @name
         String name = scanner.nextLine();
+        // this statement print "What a great name you have, {name}!"
         System.out.println("What a great name you have, " + name + "!");
     }
 
