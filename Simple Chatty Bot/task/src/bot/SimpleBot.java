@@ -89,7 +89,7 @@ public class SimpleBot {
             System.out.printf("%d!\n", i);
         }
     }
-
+//creating test() method
     static void test() {
         System.out.println("Let's test your programming knowledge.");
         // write your code here
