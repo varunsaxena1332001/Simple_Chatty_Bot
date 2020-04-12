@@ -32,6 +32,7 @@ public class SimpleBot {
     static void greet(String assistantName, String birthYear) {
         //statement to print "Hello! My name is {assistantName} ."
         System.out.println("Hello! My name is " + assistantName + ".");
+        //statement to print "I was created in {birthYear}."
         System.out.println("I was created in " + birthYear + ".");
         System.out.println("Please, remind me your name.");
     }
