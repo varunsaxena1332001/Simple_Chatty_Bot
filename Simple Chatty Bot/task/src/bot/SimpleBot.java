@@ -132,6 +132,7 @@ public class SimpleBot {
  * end() method by default public type
  */
     static void end() {
+        //statement to print "Congratulations, have a nice day!"
         System.out.println("Congratulations, have a nice day!"); // Do not change this text
     }
 }
