@@ -12,6 +12,7 @@ public class SimpleBot {
     public static void main(String[] args) {
         //calling the greet(assistantName,birthYear) method
         greet("Aid", "2018"); // change it as you need
+        //calling remindName() method
         remindName();
         guessAge();
         count();
