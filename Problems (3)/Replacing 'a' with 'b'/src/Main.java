@@ -8,6 +8,7 @@ class Main {
      */
     public static void main(String[] args) {
         // put your code here
+        //creating object sc of Scanner class
         Scanner sc = new Scanner(System.in);
         String s = sc.next();
         String s1 = "";
