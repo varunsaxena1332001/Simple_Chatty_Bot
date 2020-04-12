@@ -95,6 +95,7 @@ public class SimpleBot {
  * test() method is of static type
  */
     static void test() {
+        //statement to print "Let's test your programming knowledge."
         System.out.println("Let's test your programming knowledge.");
         // write your code here
         System.out.println("Why do we use methods?\n" +
