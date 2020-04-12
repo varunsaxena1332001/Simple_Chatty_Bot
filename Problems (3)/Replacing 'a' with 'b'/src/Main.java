@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 class Main {
+    /**
+     * creating main() method
+     */
     public static void main(String[] args) {
         // put your code here
         Scanner sc = new Scanner(System.in);
