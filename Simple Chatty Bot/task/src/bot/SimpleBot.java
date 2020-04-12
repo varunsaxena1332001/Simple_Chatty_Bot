@@ -42,6 +42,7 @@ public class SimpleBot {
         for (int i = 0; i <= num; i++) {
             System.out.printf("%d!\n", i);
         }
+
     }
 
     static void test() {
