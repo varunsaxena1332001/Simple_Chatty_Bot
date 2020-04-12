@@ -106,6 +106,7 @@ public class SimpleBot {
                 "4. To interrupt the execution of a program.\n");
         /**
          * creating variable @ans
+         * @ans is of Integer type
          * */
         int ans = 2;
         int guess = scanner.nextInt();
