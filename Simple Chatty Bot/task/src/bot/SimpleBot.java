@@ -6,7 +6,7 @@ public class SimpleBot {
     // create a object scanner of Scanner class
     //@scanner is static and final type
     final static Scanner scanner = new Scanner(System.in); // Do not change this line
-
+//create main() method
     public static void main(String[] args) {
         greet("Aid", "2018"); // change it as you need
         remindName();
