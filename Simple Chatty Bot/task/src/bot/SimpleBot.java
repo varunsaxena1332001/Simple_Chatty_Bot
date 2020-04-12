@@ -24,7 +24,7 @@ public class SimpleBot {
         //calling end() method
         end();
     }
-
+//creating greet() method
     static void greet(String assistantName, String birthYear) {
         System.out.println("Hello! My name is " + assistantName + ".");
         System.out.println("I was created in " + birthYear + ".");
