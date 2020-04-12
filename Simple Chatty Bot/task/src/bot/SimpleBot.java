@@ -47,7 +47,7 @@ public class SimpleBot {
         // this statement print "What a great name you have, {name}!"
         System.out.println("What a great name you have, " + name + "!");
     }
-
+//create guessAge() method
     static void guessAge() {
         System.out.println("Let me guess your age.");
         System.out.println("Say me remainders of dividing your age by 3, 5 and 7.");
