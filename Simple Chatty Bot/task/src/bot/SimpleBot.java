@@ -16,6 +16,7 @@ public class SimpleBot {
         remindName();
         //calling guessAge() method
         guessAge();
+        //calling count() method
         count();
         // ...
         test();
